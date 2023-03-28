@@ -1,7 +1,9 @@
 [package]
-name = "utils"
+name = "collective-utils"
 version = "1.0.0"
 edition = "2021"
+description = "general utils used by CollectiveAI"
+license = "MIT"
 
 [dependencies]
 futures-util = "0.3.26"
